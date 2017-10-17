@@ -28,9 +28,9 @@ of that product/item
 
 
 Extra features :
-	* Create groups of interests based on preferences
-	* Chat with others in the same group
-	* Receive group notifications
+- Create groups of interests based on preferences
+- Chat with others in the same group
+- Receive group notifications
 
 
  
