@@ -1,8 +1,8 @@
-Prunescu George Alexandru - group 936
-pgie1993
+## Prunescu George Alexandru - group 936
+## pgie1993
 
-Map containing pings of current deals and offers
-based on user preferences and interests
+### Map containing pings of current deals and offers
+### based on user preferences and interests
 
 Login as User/Offer & Deals organizer
 The user can view multiple deals near his area
@@ -14,13 +14,13 @@ items and products (if the owner supports) a cart
 will be available which will result in direct buying 
 of that product/item
 
-As an user
+### As an user
 	-> First login : Choose few areas of interests to get deals for
 	-> See a map with ping for every deal and offer 
 	-> Take part in groups that target the same interests
 	-> 
 
-As an offer dealer
+### As an offer dealer
 	-> Select location, duration and domain of deal + with other details
 	-> Update in real time a deal to all users interested (subscriber)
 	-> Target users based on their interests
